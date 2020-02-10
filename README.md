@@ -1,5 +1,11 @@
 # Built-in Methods
 
+## tl;dr
+1. `cd ~` then `git clone https://github.com/woodstockcs/john-jacob-python-string-methods.git` to copy the files for this project onto your virtual machine.
+1. `ls` to see the result, then `cd` into the new directory.
+1. Open `speak.py` and do as many of the problems as you can. Support and further instructions are below.
+1. When you're done, show Mr. Smith your code! Then submit the assignment doc on google classroom.
+
 ## Example: Swapcase
 
 Python comes with a lot of functionality already built out. This means that there are some commonly used operations that are a lot easier to do than you might think. Here's an example:
